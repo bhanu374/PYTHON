@@ -1,5 +1,7 @@
 # <center> F L E X </center>
 <div style="text-align: right"> - THE LUXURY STORE </div>
+
+
 ![FLEX](https://github.com/bhanu374/Cognizance/blob/main/Task-3/A.png)
 
 
