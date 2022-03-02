@@ -2,13 +2,13 @@
 # <center> F L E X </center>
 <div style="text-align: right"> - THE LUXURY STORE </div>
 
-### THEME:
+## THEME:
 
 * This is an online clothing store
 
 * You can buy a branded clothes and watches at best price
 
-### MOTIVE:
+## MOTIVE:
 
 >--- WHEN ALL FASHION MEETS  "FLEX"  ARRIVES ---
 
@@ -16,7 +16,7 @@
 
 We want to provide the best clothes to our costumers at affordable prices
 
-### FUTURE IMPROVEMENTS :
+## FUTURE IMPROVEMENTS :
 * We will try to collab with more brands
 
 * We are planning to implement subscription plans 
